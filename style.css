@@ -1,0 +1,64 @@
+body{
+    font-family: 'Aladin', cursive;
+    margin: 0;
+}
+.loves{
+    color: palevioletred;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    font-size: 30px;
+}
+.flexible{
+    display: flex;
+    margin-bottom: 80px;
+}
+.divs{
+    width: 50%;
+    padding-left: 10%;
+}
+.divs img{
+    width: 70%;
+}
+.lovebutton{
+    text-decoration: none;
+    background-image: linear-gradient(violet, purple);
+    padding: 10px 20px;
+    border-radius: 10%;
+    color: white;
+}
+.sections{
+    background-image: url(images/topbanner1.png);
+    background-repeat: no-repeat;
+}
+.sections2{
+    background-image: url(images/Frame\ 59.jpg);
+}
+.achievement{
+    width: 50%;
+    margin-left: 8%;
+    margin-right: 10%;
+    padding-left: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+    border-left: 7px solid;
+    box-shadow: 10px 10px 30px pink;
+    border-image: linear-gradient(pink, purple);
+    border-image-slice: 1;
+}
+.achievements{
+    background-image: url(images/rightbanner.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+footer{
+    text-align: center;
+}
+#firstimage{
+    width: 100%;
+}
